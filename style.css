@@ -1,0 +1,11 @@
+.heading{
+    text-align: center;
+}
+.albumimage :hover{
+  transform: scale(2);
+}
+
+.albumimage {
+    transition: all 1.5s ease;
+    overflow: hidden;
+}
